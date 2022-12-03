@@ -1,0 +1,113 @@
+Critical Thinking
+
+Problem Finding
+Problem Solving
+Decision Making
+
+Cara menjawab soal soal :
+Deduktif, Kesimpulan diawal
+Induktif , Kesimpulan diakhir
+
+KTI
+Struktur, konsep, tujuan.
+Formatting (font, margin, layout, paragraph).
+TOC
+Insert.
+Table of Figures
+Index of Table.
+Bibliopraphy
+
+Soal >C4
+
+
+LibreOffice, OpenSource 
+Opensource (Mozzila Firefox, OBS) , CloseSource (Apple Safari, Apple TV dll), Freeware (Google Chrome, Opera, Tiktok dll, ig).
+Android, 
+Samsung  OneUI, Xiaomi MIUI,  
+
+Perusahaan LibreOffice, OpenDocumentation.
+FormatLibre Office (word : doc, docx libre : odt).
+
+Langkah - langkah (pembuatan KTI diingat).
+Inti dari Daftar Pustaka 
+
+
+
+
+
+
+
+
+
+
+Data Structure
+FIFO
+LIFO
+
+Logika Informatika
+Kalimat Logika
+Operator Logika (Negasi, Konjungsi, Disjungsi, Implikasi, Biimplikasi).
+Tabel Logika 
+
+Pemrograman Terstruktur.
+Struktur, tujuan dan konsep.
+Data Type
+Variable
+Operator
+If
+Function.
+
+Apa perbedaan  (=, operator sama dengan) dan (:=, assign value) dalam pascal...
+manakah yang tepat?
+a = 10;
+a := 10; (benar).
+
+Operator logika (>, < ,= dll)
+Operator Aritmatika (mod, div, +, - dll)
+
+Penamaan program 
+1. Tidak boleh ada spasi.
+2. tidak boleh dimulai dengan angka.
+3. tidak boleh mengandung nama function.
+
+program 1angka;
+program angka1;
+program begin;
+program turnintoloveyou;
+program _ong; //benar
+
+apa beda const dan var
+const nilainya tidak bisa berubah,
+var bisa berubah.
+
+penamaan variabel dan const?
+1. Tidak boleh ada spasi.
+2. tidak boleh dimulai dengan angka.
+3. tidak boleh mengandung nama function.
+
+var 10;  //salah
+var sepuluh : integer;  //benar
+ 
+apa beda
+angka := 10; (numeric :bisa int, bisa real)
+angka := "10";  (string)
+angka := '10'; (char, string)
+
+apa beda, variabel, tipe data dan value?
+
+manakah yang merupakan tipe data, var dan value;
+var nama: string;
+nama := 'Axel';
+
+
+
+
+
+
+
+
+
+
+
+
+

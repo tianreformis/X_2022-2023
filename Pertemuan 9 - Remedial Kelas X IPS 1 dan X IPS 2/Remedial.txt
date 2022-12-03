@@ -1,6 +1,12 @@
 1. Remedial + diambil nilai praktik.
-2. Silahkan buat KTI file baru, catat langkah - langkahnya
+2. Silahkan buat file KTI baru, catat langkah - langkahnya
 
-remedial akan dapat nilai maksimal 75
+Cover, Daftar Isi, Daftar Gambar, Daftar Tabel, Mulai dari Bab I sampai 5, Daftar Pustaka
 
-nilai praktik maksimal 100, kerjakan dengan maksimal.
+Remedial akan dapat nilai maksimal 75
+Nilai praktik maksimal 100, kerjakan dengan baik.
+
+
+
+File Name : Nama_Tanggal (Cth: Tian_20220915)
+Simpan Di Folder Pribadi.
